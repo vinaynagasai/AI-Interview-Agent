@@ -1,0 +1,15 @@
+Name: NTR
+
+Skills:
+Python, React, SQL, Machine Learning
+
+Experience:
+2 Years Internship Experience in Web Development
+
+Projects:
+- AI Chatbot
+- Smart Interview Platform
+- E-commerce Website
+
+Job Description:
+Looking for a Full Stack Developer with knowledge of React, APIs, databases, and problem-solving skills.

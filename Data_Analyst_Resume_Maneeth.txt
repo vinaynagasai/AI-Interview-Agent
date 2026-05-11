@@ -1,0 +1,41 @@
+CHILUVERU MANEETH
+Hyderabad, Telangana | maneeth.chiluveru@email.com
+LinkedIn: linkedin.com/in/chiluveru-maneeth | GitHub: github.com/maneeth
+
+SUMMARY
+Computer Science student specializing in Artificial Intelligence with a strong foundation in data structures, SQL, and Python. Experienced in building AI-powered applications and full-stack systems. Seeking to leverage analytical skills and machine learning expertise to drive data-informed decision-making as a Data Analyst.
+
+EDUCATION
+Anurag University, Hyderabad
+Bachelor of Technology in Computer Science (Artificial Intelligence) | Expected June 2027
+
+Sri Chaitanya Junior College
+Intermediate | Score: 956/1000
+
+TECHNICAL SKILLS
+- Languages: Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL), Java, JavaScript
+- Data Visualization: Matplotlib, Seaborn, Power BI (General knowledge)
+- Databases: MongoDB, Neon DB, Aiven (Cloud SQL)
+- Machine Learning: Natural Language Processing (NLP), XGBoost, Regression Analysis
+- Tools: Git, Vercel, Render, FastAPI
+
+PROJECTS
+GenAI-Powered Resume Analyzer
+- Developed an NLP tool using Python to parse and analyze resume data.
+- Implemented scoring algorithms to evaluate candidate fitment based on job descriptions.
+
+Cyberbullying Detection System
+- Built a real-time web application using React, FastAPI, and XGBoost to classify text data.
+- Processed and cleaned large datasets to improve model accuracy in detecting sentiment and intent.
+
+Student Dashboard Management System
+- Designed and deployed a full-stack system using Java Spring Boot and Aiven.
+- Managed relational database schemas to ensure data integrity and optimized query performance for student records.
+
+EXPERIENCE
+PwC LaunchPad Program
+- Participated in analytics-based problem-solving workshops and professional development.
+
+CERTIFICATIONS & CLUBS
+- Member, Competitive Programming Club (Focus on Data Structures and Algorithms)
+- Full-Stack Development (MERN/MEAN stacks)

@@ -1,0 +1,25 @@
+Predicted Role: Full Stack Developer
+
+Technical Score: 84
+Communication Score: 78
+Confidence Score: 81
+Engagement Score: 76
+
+Strengths:
+- Strong frontend and backend fundamentals
+- Good project explanation
+- Clear problem-solving approach
+
+Weak Areas:
+- System design concepts
+- Communication pacing during complex questions
+
+Recommended Improvements:
+- Practice mock interviews
+- Improve system design knowledge
+- Work on confidence during difficult questions
+
+Recommended Courses:
+- Advanced React
+- System Design Basics
+- Backend API Development
